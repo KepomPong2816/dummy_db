@@ -23,7 +23,7 @@ harga_map = {
 # Primary key (Auto Increment)
 id_transaksi = 0 # First index is 0
 
-# Total data dummy need :
+# Total data dummy needed :
 X = 100 # Update manual <<< EDIT THIS !!! <<< Depend on structure table, null value is not recommended for use 
 
 with open("dummy_transaksi.sql", "w") as f:
